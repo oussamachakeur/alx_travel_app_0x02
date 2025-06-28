@@ -15,4 +15,17 @@
 ### To Run:
 
 ```bash
+
+
 python manage.py runserver
+ Chapa Payment Integration
+
+### Features
+- Initiates payment with Chapa
+- Verifies payment status
+- Updates Payment model
+- Stores transaction details securely
+- Uses environment variables for API credentials
+
+### Environment
+Add `.env`:
